@@ -1,0 +1,13 @@
+{
+  "name": "feapp",
+  "version": "1.0.0",
+  "description": "launch index html",
+  "main": "components.js",
+  "dependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "lite-server"
+  }
+}
